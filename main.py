@@ -2,7 +2,7 @@ from vkuser import VkUser
 from yauploader import YaUploader
 
 if __name__ == '__main__':
-    token = 'AQAAAAAFk27kAADLW_2Bm2IxGk83mCT99tuXxPw'
+    token = ''
 
     uploader = YaUploader(token)
     vk_user = VkUser('552934290')
